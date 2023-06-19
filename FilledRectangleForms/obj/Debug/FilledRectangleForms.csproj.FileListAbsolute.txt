@@ -1,0 +1,10 @@
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\bin\Debug\FilledRectangleForms.exe.config
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\bin\Debug\FilledRectangleForms.exe
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\bin\Debug\FilledRectangleForms.pdb
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.csproj.AssemblyReference.cache
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.Form1.resources
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.Properties.Resources.resources
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.csproj.GenerateResource.cache
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.csproj.CoreCompileInputs.cache
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.exe
+C:\Users\jhenry\source\repos\FilledRectangleForms\FilledRectangleForms\obj\Debug\FilledRectangleForms.pdb
